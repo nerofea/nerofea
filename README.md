@@ -1,8 +1,93 @@
 # Nerofea Network
 
-My First Github repository!
+Nerofea is a web3 water goddess. 
 
-## Getting Started
+### A Sneak Peek Into My Projects
+
+## NFN Proactive Voting for Sports, Live Entertainment and Local Council
+Next-Step Action Voting, Merchandise Purchasing, and Proactive Interaction thanks to Pair Voting Mechanism Applied on Live-on-screen Engagement Tools
+- Testing
+- Conceptualizing
+- Pitching
+- Secret vs Public
+- Rust-based, Substrate thinking
+- Fast, real-time, proveability, and privacy-focused live-onscreen shopping feature
+
+## Flare x Google Cloud Verifiable AI Hackathon
+Technical Planning and Collaboration AI Tool for Planning Complicated Product Architectures & Discovery of Concept Development
+– Designed and pitched an AI visual UML generator solution called (no name yet) to bridge the gap between NFN, Twitch, Telegram, and the complicated poltiical scape of cryptocurrencies and tokens. 
+- Zero-sleep 48-hour hack. 
+– Flare oracles
+- Software Architecture
+- API Configurations
+--- Submitted on DOrahacks
+
+## Flare EthOxford Hackathon (Oxford, Great Britain)
+STORM Product Architecture & Concept Development
+– Designed and pitched a solution called STORM to bridge the gap between NFN, Twitch, Telegram, and the complicated poltiical scape of cryptocurrencies and tokens. 
+- Zero-sleep 48-hour hack. 
+– Flare oracles
+- Software Architecture, and API Configuration needs
+-- Sponsored by friends and family
+
+## Aztec Tribes (ZK Payment Requests) for the Aztec Hacker House (London, Great Britain)
+– Created a dynamic Merkle tree system for modifiable payment approvals.
+– Wrote smart circuits in Aztec Noir and Noir & scoped front and backend workflows.
+- Discovery phase to discover centralized circuits vs Aztec Private State, PXE and auth-witness.
+--- Sponsored by Aztec Labs / Aztec Foundation
+
+## Aztec Empires (ZK Reporting Filing) for the Aztec Hacker House   (London, Great Britain)
+– Created an append only Merkle tree system for finalizing financial and project reports.
+– Wrote smart circuits in Aztec-Noir and Noir & scoped front and backend workflows.
+- Discovery phase to discover centralized circuits vs Aztec Private State, PXE and auth-witness.
+--- Sponsored by Aztec Labs / Aztec Foundation
+
+## Polkadot Prodigy – 2nd Place, DeFi Category (Bulgaria)
+Where the NFN and real-time concept was born. Where Nerofea discovered Rust and Substrate, the key to the final missing piece of the puzzle of the business concepts Nerofea believes the world needs and deserves. 
+– Built a DeFi solution with automatic voting strategy and UI/UX flow.
+– Created technical scope, user flows, and pitch script.
+- Concept was backed by current consumer behavors. 
+--- Sponsored by Polkadot Treasury
+-- Submitted to Devpost
+
+## 3D Shopping & Design Experience
+Live Product & Design Simulation of 3D Room & Products for an Accurate Shopping Experience
+– Immersive Three.js product scenes.
+- WebGL Texture Loading
+– COnfigurable with Twitch overlays
+- ZK authentication receipt, usecasing NFN's functionality
+
+## Belgrade Hackers League & TONBelgrade Hackathon (Serbia)
+- Ideated TONPie Telegram App
+- Architected the Booking and Payment Tool using NFN concepts using the TDlib Initializer 
+- Scoped the live delivery tracking concept
+--- Sponsored by Ivan Cholakov, Senior Software Engineer, Aventus Network
+
+### Connect
+💌 nerofea.offical@gmail.com  
+💌 instagram.com/_nerofea
+💌 twitch.com/nerofea
+💌 twitter.com/nerofeaOfficial
+
+### Helpful Docs (Resources for Beginner Builders)
+
+- 📚 [Substrate Docs](https://docs.substrate.io/)  
+- 🧱 [Aztec Noir Language Guide](https://noir-lang.org)  
+- 🎨 [Three.js / WebGL Examples](https://threejs.org/examples/)  
+- 🧠 [Polkadot/Substrate Ecosystem Explorer](https://substrate.dev/en/ecosystem)  
+- 🧪 [ZK Hack Challenges](https://zkhack.dev/challenges/)  
+
+### 🌱 Ideas I'm Exploring
+
+- Decentralized governance through product UX  
+- Privacy-preserving shopping and social commerce  
+- Twitch-native auctions powered by smart contracts  
+- Visual dev tools for AI-assisted product design  
+- Real-time voting flows for live entertainment  
+
+Most of these tie into NFN (Nerofea Functionality Network) — a modular vision I’m prototyping one repo at a time.
+
+## Getting Started with NFN (not complete, below is draft from Cargo/Substrate)
 
 Depending on your operating system and Rust version, there might be additional
 packages required to compile this template. Check the
@@ -10,18 +95,9 @@ packages required to compile this template. Check the
 the most common dependencies. Alternatively, you can use one of the [alternative
 installation](#alternatives-installations) options.
 
-### Build
-
-Use the following command to build the node without launching it:
-
 ```sh
 cargo build --release
 ```
-
-### Embedded Docs
-
-After you build the project, you can use the following command to explore its
-parameters and subcommands:
 
 ```sh
 ./target/release/node-template -h
@@ -34,8 +110,6 @@ with this command:
 ```sh
 cargo +nightly doc --open
 ```
-
-### Single-Node Development Chain
 
 The following command starts a single-node development chain that doesn't
 persist state:
