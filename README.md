@@ -1,4 +1,4 @@
-# Nerofea Network
+# Nerofea & Nerofea Network
 
 Nerofea is a business, product, revenue model, design and web3 water goddess. 
 
