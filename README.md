@@ -4,7 +4,7 @@ Nerofea is a business, product, revenue model, design and web3 water goddess.
 
 ### A Sneak Peek Into My Projects
 
-## NFN Proactive Voting for Sports, Live Entertainment and Local Council
+### NFN Proactive Voting for Sports, Live Entertainment and Local Council
 Next-Step Action Voting, Merchandise Purchasing, and Proactive Interaction thanks to Pair Voting Mechanism Applied on Live-on-screen Engagement Tools
 - Testing
 - Conceptualizing
@@ -12,37 +12,39 @@ Next-Step Action Voting, Merchandise Purchasing, and Proactive Interaction thank
 - Secret vs Public
 - Rust-based, Substrate thinking
 - Fast, real-time, proveability, and privacy-focused live-onscreen shopping feature
+--- Video Pitch https://drive.google.com/file/d/1GHJ8sL-6z9rxZ6mHjB_4QcwyT-WFXfpc/view?usp=sharing Submitted on Talkai.Network  https://taikai.network/PolkadotProdigy/hackathons/prodigy/projects/clwnqwonu01090901yq4p77ba/idea
 
-## Flare x Google Cloud Verifiable AI Hackathon
+### Flare x Google Cloud Verifiable AI Hackathon
 Technical Planning and Collaboration AI Tool for Planning Complicated Product Architectures & Discovery of Concept Development
 – Designed and pitched an AI visual UML generator solution called (no name yet) to bridge the gap between NFN, Twitch, Telegram, and the complicated poltiical scape of cryptocurrencies and tokens. 
 - Zero-sleep 48-hour hack. 
 – Flare oracles
 - Software Architecture
 - API Configurations
---- Submitted on DOrahacks
+--- Submitted on Dorahacks https://dorahacks.io/buidl/24269
 
-## Flare EthOxford Hackathon (Oxford, Great Britain)
+### Flare EthOxford Hackathon (Oxford, Great Britain)
 STORM Product Architecture & Concept Development
 – Designed and pitched a solution called STORM to bridge the gap between NFN, Twitch, Telegram, and the complicated poltiical scape of cryptocurrencies and tokens. 
 - Zero-sleep 48-hour hack. 
 – Flare oracles
 - Software Architecture, and API Configuration needs
+--- Context Video Submission https://www.youtube.com/watch?v=_F_OLUgqkog Original Submission - https://dorahacks.io/buidl/22682
 -- Sponsored by friends and family
 
-## Aztec Tribes (ZK Payment Requests) for the Aztec Hacker House (London, Great Britain)
+### Aztec Tribes (ZK Payment Requests) for the Aztec Hacker House (London, Great Britain)
 – Created a dynamic Merkle tree system for modifiable payment approvals.
 – Wrote smart circuits in Aztec Noir and Noir & scoped front and backend workflows.
 - Discovery phase to discover centralized circuits vs Aztec Private State, PXE and auth-witness.
 --- Sponsored by Aztec Labs / Aztec Foundation
 
-## Aztec Empires (ZK Reporting Filing) for the Aztec Hacker House   (London, Great Britain)
+### Aztec Empires (ZK Reporting Filing) for the Aztec Hacker House   (London, Great Britain)
 – Created an append only Merkle tree system for finalizing financial and project reports.
 – Wrote smart circuits in Aztec-Noir and Noir & scoped front and backend workflows.
 - Discovery phase to discover centralized circuits vs Aztec Private State, PXE and auth-witness.
 --- Sponsored by Aztec Labs / Aztec Foundation
 
-## Polkadot Prodigy – 2nd Place, DeFi Category (Bulgaria)
+### Polkadot Prodigy – 2nd Place, DeFi Category (Bulgaria)
 Where the NFN and real-time concept was born. Where Nerofea discovered Rust and Substrate, the key to the final missing piece of the puzzle of the business concepts Nerofea believes the world needs and deserves. 
 – Built a DeFi solution with automatic voting strategy and UI/UX flow.
 – Created technical scope, user flows, and pitch script.
@@ -50,14 +52,14 @@ Where the NFN and real-time concept was born. Where Nerofea discovered Rust and 
 --- Sponsored by Polkadot Treasury
 -- Submitted to Devpost
 
-## 3D Shopping & Design Experience
+### 3D Shopping & Design Experience
 Live Product & Design Simulation of 3D Room & Products for an Accurate Shopping Experience
 – Immersive Three.js product scenes.
 - WebGL Texture Loading
 – COnfigurable with Twitch overlays
 - ZK authentication receipt, usecasing NFN's functionality
 
-## Belgrade Hackers League & TONBelgrade Hackathon (Serbia)
+### Belgrade Hackers League & TONBelgrade Hackathon (Serbia)
 - Ideated TONPie Telegram App
 - Architected the Booking and Payment Tool using NFN concepts using the TDlib Initializer 
 - Scoped the live delivery tracking concept
@@ -69,13 +71,11 @@ Live Product & Design Simulation of 3D Room & Products for an Accurate Shopping 
 💌 twitch.com/nerofea
 💌 twitter.com/nerofeaOfficial
 
-### Helpful Docs (Resources for Beginner Builders)
-
-- 📚 [Substrate Docs](https://docs.substrate.io/)  
-- 🧱 [Aztec Noir Language Guide](https://noir-lang.org)  
-- 🎨 [Three.js / WebGL Examples](https://threejs.org/examples/)  
-- 🧠 [Polkadot/Substrate Ecosystem Explorer](https://substrate.dev/en/ecosystem)  
-- 🧪 [ZK Hack Challenges](https://zkhack.dev/challenges/)  
+### Check out my profiles
+https://taikai.network/nerofea
+https://dorahacks.io/hacker/nerofea
+Nerofea on Polkadot Network
+Nerofea on Aztec Network
 
 ### 🌱 Ideas I'm Exploring
 
@@ -86,6 +86,26 @@ Live Product & Design Simulation of 3D Room & Products for an Accurate Shopping 
 - Real-time voting flows for live entertainment  
 
 Most of these tie into NFN (Nerofea Functionality Network) — a modular vision I’m prototyping one repo at a time.
+
+### Catch me at
+Aztec Noir after office hours 
+Noir After office hours
+Hackathons
+ZK Meet-ups
+Sofia Crypto Meetup
+Crypto Revolution
+Discord Servers
+Devbg Facebook group
+Creative outlets
+The gym, at the squat rack. 
+
+### Helpful Docs (Resources for Beginner Builders)
+
+- 📚 [Substrate Docs](https://docs.substrate.io/)  
+- 🧱 [Aztec Noir Language Guide](https://noir-lang.org)  
+- 🎨 [Three.js / WebGL Examples](https://threejs.org/examples/)  
+- 🧠 [Polkadot/Substrate Ecosystem Explorer](https://substrate.dev/en/ecosystem)  
+- 🧪 [ZK Hack Challenges](https://zkhack.dev/challenges/)  
 
 ## Getting Started with NFN (not complete, below is draft from Cargo/Substrate)
 
