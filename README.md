@@ -1,6 +1,6 @@
 # Nerofea Network
 
-Nerofea is a web3 water goddess. 
+Nerofea is a business, product, revenue model, design and web3 water goddess. 
 
 ### A Sneak Peek Into My Projects
 
