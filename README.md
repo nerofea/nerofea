@@ -8,11 +8,11 @@ I am open for collaborations, live webinars, live trainings, teaching opportunit
 
 Nerofea can help you:
 
-##### Tokenize assets and design on-chain economics
-##### Build data pipelines  (ETL) of all types, integrations, and analytics. 
-##### Product/market analysis with technical roadmaps (features, budget, stack, team)
-##### Smart contracts, explorers, privacy UX, and GPU/real-time 
-##### simulation tooling
+##### - Tokenize assets and design on-chain economics
+##### - Build data pipelines  (ETL) of all types, integrations, and analytics. 
+##### - Product/market analysis with technical roadmaps (features, budget, stack, team)
+##### - Smart contracts, explorers, privacy UX, and GPU/real-time 
+##### - simulation tooling
 
 ### Summary of Projects and Hackathon Submissions
 
