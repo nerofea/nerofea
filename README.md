@@ -1,26 +1,32 @@
 # Nerofea
 
 Nerofea is a fullstack web3 mathematical water goddess. Her programming flows like water.
-Nerofea specializes in Rust, Python, C++, smart contracts, dexplorers, tokenizations, GPU languages and ZK languages. 
+Nerofea specializes in Rust, WASM, Python, C++, smart contracts, dexplorers, tokenizations, GPU languages and ZK languages. 
 Nerofea is a software engineer and architect. 
 
-I am open for collaborations, live webinars, live trainings, teaching opportunities, job opps and contracts and potential investment opportunities. E-mail me at nerofea.official@gmail.com
+I am open for collaborations, live webinars, live trainings, teaching opportunities, live speaking opps, job opps and contracts and potential investment opportunities. E-mail me at nerofea.official@gmail.com
 
-Nerofea can help you tokenize your assets, integrate data, ETL your data, create insights, analyse your product, analyze your market, engineer and/or architect your product model technically including the entire technical road map by feature, budget, language, and assesed candidate. 
+Nerofea can help you:
+
+##### Tokenize assets and design on-chain economics
+##### Build data pipelines  (ETL) of all types, integrations, and analytics. 
+##### Product/market analysis with technical roadmaps (features, budget, stack, team)
+##### Smart contracts, explorers, privacy UX, and GPU/real-time 
+##### simulation tooling
 
 ### Summary of Projects and Hackathon Submissions
 
 #### NFN Live On-Screen AMM Pair Voting for Sports, Live Entertainment and Local Council
 
-#### Flare x Google Cloud Verifiable AI Hackathon (Remote), March, 2025
+#### Flare x Google Cloud Verifiable AI Hackathon (Remote), March, 2025 - verifiable data and inference writing
 
-#### Flare EthOxford Hackathon (Oxford, Great Britain), Feb, 2025
+#### Flare EthOxford Hackathon (Oxford, Great Britain), Feb, 2025 - DeFiSocial architecture & product
 
 #### Aztec Tribes (ZK Payment Requests) for the Aztec Hacker House (London, Great Britain), Feb, 2025
 
 #### Aztec Empires (ZK Reporting Filing) for the Aztec Hacker House (London, Great Britain), Feb, 2025
 
-#### Polkadot Prodigy – 2nd Place, DeFi Category, 2024
+#### Polkadot Prodigy – 2nd Place, DeFi, 2024
 
 #### 3D Shopping & Design Experience, 2024
 
@@ -32,9 +38,8 @@ Nerofea can help you tokenize your assets, integrate data, ETL your data, create
 
 #### PREDICTIONS MARKET for LIVESTREAM ENTERTAINMENT, 2025
 
-
 ### Connect
-💌 nerofea.offical@gmail.com  
+💌 nerofea.official@gmail.com  
 💌 instagram.com/_nerofea
 💌 twitch.com/nerofea  (Network with my livechatters) 
 💌 twitter.com/nerofeaOfficial
@@ -47,13 +52,13 @@ Nerofea on Aztec Network
 
 ### 🌱 Ideas I'm Exploring
 
-- Decentralized governance through product UX  
-- Privacy-preserving shopping and social commerce  
-- Twitch-native auctions powered by smart contracts  
+- Smart Contracts, product-led governance, privacy commerce
+- Pipelines and Tooling
+- Livestream-native auctions powered by smart contracts  
 - Visual dev tools for AI-assisted product design  
-- Real-time voting flows for live entertainment  
-
-Most of these tie into NFN (Nerofea Functionality Network) — a modular vision I’m prototyping one repo at a time.
+- GPU Programming - Rendering, Rasterizing, Generating
+- Physics Simulations, Applied Mathematics
+- Benchmark testing and benchmarking with end-user performance benefits
 
 ### Catch me at
 Aztec Noir after office hours 
@@ -63,12 +68,10 @@ ZK Meet-ups
 Sofia Crypto Meetup
 Crypto Revolution
 Discord Servers
-Devbg Facebook group
 Creative outlets
 The gym, at the squat rack. 
 
 ### Interested in: 
 - Sponsorship for further studies in Private Equity.
 - Sponsorship for online trading filmed live on screen, featuring guest speakers from the Balkans. 
-
-
+- Sponsorship for hosting global assosiations of hackahtons with live commentary and technical and product analysis with market comparison
