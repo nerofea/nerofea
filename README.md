@@ -10,27 +10,27 @@ Nerofea can help you tokenize your assets, integrate data, ETL your data, create
 
 ### Summary of Projects and Hackathon Submissions
 
-## NFN Live On-Screen AMM Pair Voting for Sports, Live Entertainment and Local Council
+#### NFN Live On-Screen AMM Pair Voting for Sports, Live Entertainment and Local Council
 
-## Flare x Google Cloud Verifiable AI Hackathon (Remote), March, 2025
+#### Flare x Google Cloud Verifiable AI Hackathon (Remote), March, 2025
 
-## Flare EthOxford Hackathon (Oxford, Great Britain), Feb, 2025
+#### Flare EthOxford Hackathon (Oxford, Great Britain), Feb, 2025
 
-## Aztec Tribes (ZK Payment Requests) for the Aztec Hacker House (London, Great Britain), Feb, 2025
+#### Aztec Tribes (ZK Payment Requests) for the Aztec Hacker House (London, Great Britain), Feb, 2025
 
-## Aztec Empires (ZK Reporting Filing) for the Aztec Hacker House (London, Great Britain), Feb, 2025
+#### Aztec Empires (ZK Reporting Filing) for the Aztec Hacker House (London, Great Britain), Feb, 2025
 
-## Polkadot Prodigy – 2nd Place, DeFi Category, 2024
+#### Polkadot Prodigy – 2nd Place, DeFi Category, 2024
 
-## 3D Shopping & Design Experience, 2024
+#### 3D Shopping & Design Experience, 2024
 
-### Belgrade Hackers League & TONBelgrade Hackathon (Serbia), 2024
+#### Belgrade Hackers League & TONBelgrade Hackathon (Serbia), 2024
 
-### Builders Hackathon, Super Team Balkan, Colloseum, Breakout, Redacted (Serbia), 2025
+#### Builders Hackathon, Super Team Balkan, Colloseum, Breakout, Redacted (Serbia), 2025
 
-### GENAI RAGAI UML PRESENTER + PLANNER, 2025
+#### GENAI RAGAI UML PRESENTER + PLANNER, 2025
 
-### PREDICTIONS MARKET for LIVESTREAM ENTERTAINMENT, 2025
+#### PREDICTIONS MARKET for LIVESTREAM ENTERTAINMENT, 2025
 
 
 ### Connect
