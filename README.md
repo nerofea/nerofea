@@ -11,8 +11,7 @@ Nerofea can help you:
 ##### - Tokenize assets and design on-chain economics
 ##### - Build data pipelines  (ETL) of all types, integrations, and analytics. 
 ##### - Product/market analysis with technical roadmaps (features, budget, stack, team)
-##### - Smart contracts, explorers, privacy UX, and GPU/real-time 
-##### - simulation tooling
+##### - Smart contracts, explorers, privacy UX, and GPU/real-time simulation tooling
 
 ### Summary of Projects and Hackathon Submissions
 
@@ -41,15 +40,16 @@ Nerofea on Aztec Network
 - Benchmark testing and benchmarking with end-user performance benefits
 
 ### Catch me at
-Aztec Noir after office hours 
-Noir After office hours
-Hackathons
-ZK Meet-ups
-Sofia Crypto Meetup
-Crypto Revolution
-Discord Servers
-Creative outlets
-The gym, at the squat rack. 
+- Aztec Noir after office hours 
+- Noir After office hours
+- Hackathons
+- ZK Meet-ups
+- Sofia Crypto Meetup
+- Crypto Revolution
+- Discord Servers
+- Creative outlets
+- The gym, at the squat rack.
+- ETH Sofia
 
 ### Interested in: 
 - Sponsorship for further studies in Private Equity.
