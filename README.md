@@ -1,8 +1,8 @@
-# Nerofea
+# Nerofea - Software Engineer, Architect, Product Conceptualizer, Mathematician
 
-Nerofea is a fullstack web3 mathematical water goddess. Her programming flows like water.
-Nerofea specializes in Rust, WASM, Python, C++, smart contracts, dexplorers, tokenizations, GPU languages and ZK languages. 
-Nerofea is a software engineer and architect. 
+Full-stack Web3 mathematical water goddess 🌊
+I write code that flows — Rust streams, WASM ripples, Python tides, C++ currents.
+From ZK proofs to GPU shaders, I architect systems where math meets magic.
 
 I am open for collaborations, live webinars, live trainings, teaching opportunities, live speaking opps, job opps and contracts and potential investment opportunities. E-mail me at nerofea.official@gmail.com
 
