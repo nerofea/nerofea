@@ -50,6 +50,8 @@ Nerofea on Aztec Network
 - Creative outlets
 - The gym, at the squat rack.
 - ETH Sofia
+- Openfest
+- ETHOxford
 
 ### Interested in: 
 - Sponsorship for further studies in Private Equity.
